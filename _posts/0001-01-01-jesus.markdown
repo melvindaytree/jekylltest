@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "WOO!"
+date:   0001-04-04 12:53:39 -0400
+categories: jekyll update
+---
+TODAYS THE DAY
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

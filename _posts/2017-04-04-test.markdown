@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Wuddup World?"
+date:   2017-04-04 01:53:39 -0400
+categories: jekyll update
+---
+This is pretty tight:
+
+{% highlight ruby %}
+def print_wuddup(Wuddup)
+  puts "Hi, #{Wuddup}"
+end
+print_wuddup('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
