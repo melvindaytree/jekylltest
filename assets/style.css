@@ -1,0 +1,44 @@
+ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+.littlemargin {
+    margin-top: -15px;
+}
+
+#side {
+    background-color: black;
+    height:1200px;
+    width:20%;
+    float: right;
+    -webkit-clip-path: polygon(82% 0, 100% 0%, 100% 100%, 47% 100%);
+    clip-path: polygon(82% 0, 100% 0%, 100% 100%, 47% 100%);
+}
+
+.feature {
+    width: 100%;
+    position: absolute;
+    height: 200px;
+}
+
+.page-content {
+    padding-bottom: 0px !important;
+}
+
+#related {
+    background-color: #d8d8d8;
+    width: 20%;
+    margin-top: 30px;
+    position: fixed;
+}
+
+.move-left {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}

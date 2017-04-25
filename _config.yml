@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Skiiiirt
+title: All about Lorem Ipsum
 email: melvin.daytree@uconn.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is the newest, latest and greatest Jerkyll Site Powered by Daytree Servers.
+  Did you ever want to know all about the greatest language the web has ever known? Then you're in the right place.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: melvindaytree
 github_username:  melvindaytree
+excerpt_separator: <!--more-->
+paginate: 3
 
 # Build settings
 markdown: kramdown

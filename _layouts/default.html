@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+
+    <div id="side"></div>
+    <!--<img class="feature" src="{{ site.url }}/assets/img/beer.jpg"> -->
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
+        <ul>
+            {% for post in site.posts %}
+                <li>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <p class="littlemargin">{{ post.date | date: "%-d %B %Y" }}</p>
+                {{ post.excerpt }}
+                </li>
+            {% endfor %}
+        </ul>
+        
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

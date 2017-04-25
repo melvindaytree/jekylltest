@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "I'm stuck in a jekyll post!"
+date:   2017-04-22 12:53:39 -0400
+categories: basic
+---
+
+Please send help!<!--more-->, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<img class="" src="{{ site.url }}/assets/img/beer.jpg">
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
