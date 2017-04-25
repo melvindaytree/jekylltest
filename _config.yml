@@ -17,7 +17,7 @@ title: All about Lorem Ipsum
 email: melvin.daytree@uconn.edu
 description: > # this means to ignore newlines until "baseurl:"
   Did you ever want to know all about the greatest language the web has ever known? Then you're in the right place.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekylltest" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: melvindaytree
 github_username:  melvindaytree

@@ -3,7 +3,7 @@ layout: post
 title:  "Wuddup World?"
 date:   2017-04-04 01:53:39 -0400
 categories: jekyll update
-permalink: HOLYFUCK
+permalink: Print
 ---
 This is pretty tight:
 <!--more-->
