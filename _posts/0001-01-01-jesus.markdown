@@ -2,7 +2,7 @@
 layout: post
 title:  "WOO!"
 date:   0001-04-04 12:53:39 -0400
-categories: jekyll update
+categories: jekyll
 ---
 
 What is Lorem Ipsum?
