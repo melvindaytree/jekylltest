@@ -7,7 +7,7 @@ categories: basic
 
 Please send help!<!--more-->, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-<img class="" src="{{site.baseurl}}{{ site.url }}/assets/img/beer.jpg">
+<img class="" src="{{ site.url }}{{site.baseurl}}/assets/img/beer.jpg">
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
